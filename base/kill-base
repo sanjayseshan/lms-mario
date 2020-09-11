@@ -1,0 +1,9 @@
+#!/bin/bash
+
+sshpass -p maker ssh robot@10.42.0.1 'killall python3;echo killed1'
+sshpass -p maker ssh robot@10.42.1.1 'killall python3;echo killed2'
+sshpass -p maker ssh robot@10.42.2.1 'killall python3;echo killed3'
+sshpass -p maker ssh robot@10.42.3.1 'killall python3;echo killed4'
+sshpass -p maker ssh robot@10.42.4.1 'killall python3;echo killed5'
+sshpass -p maker ssh robot@10.42.5.1 'killall python3;echo killed6'
+

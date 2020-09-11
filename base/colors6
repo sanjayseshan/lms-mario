@@ -1,0 +1,269 @@
+connected to 10.42.0.3
+Active on port: 5000 & 6000
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(0,0)'
+SENDING COMPLETE
+INIT
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+yellow:(5, 0)
+sending 15 bytes
+sending total 19 bytes
+sending b'\x00\x00\x00\x0f1;yellow:(5, 0)'
+SENDING COMPLETE
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+none:(5, 0)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r1;none:(5, 0)'
+SENDING COMPLETE
+RESET
+resetting
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(0,0)'
+SENDING COMPLETE
+RESET
+resetting
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(0,0)'
+SENDING COMPLETE
+RESET
+resetting
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(0,0)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+none:(5, 0)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;none:(5, 0)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+yellow:(5, 0)
+sending 15 bytes
+sending total 19 bytes
+sending b'\x00\x00\x00\x0f1;yellow:(5, 0)'
+SENDING COMPLETE
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+yellow:(5, 0)
+sending 15 bytes
+sending total 19 bytes
+sending b'\x00\x00\x00\x0f1;yellow:(5, 0)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(5, 1)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c1;red:(5, 1)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+yellow:(5, 3)
+sending 15 bytes
+sending total 19 bytes
+sending b'\x00\x00\x00\x0f2;yellow:(5, 3)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+yellow:(5, 1)
+sending 15 bytes
+sending total 19 bytes
+sending b'\x00\x00\x00\x0f3;yellow:(5, 1)'
+SENDING COMPLETE
+RESET
+resetting
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(0,0)'
+SENDING COMPLETE

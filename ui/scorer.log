@@ -1,0 +1,6751 @@
+device /dev/input/event0, name "FT5406 memory based driver", phys ""
+Called by main
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+
+
+READING INPUT
+Active on port: 5000
+Active on port: 6000
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+192.168.0.4;0
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+
+
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+
+
+0;green:(0,0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+
+
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+
+
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+
+
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+
+
+0;green:(0,0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+
+
+0;green:(0,0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+
+
+0;green:(0,0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+
+
+fbi: no process found
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+
+
+0;green:(0,0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+
+
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;green:(0,0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;red:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;brown:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;red:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;red:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;red:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+0;red:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 0
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+1;yellow:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (3, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+0;none:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (1, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+1;yellow:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (1, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 2
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (1, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (1, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (3, 0)}
+Pacman: 4
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(4, 0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (1, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 0)}
+Pacman: 5
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(5, 0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (1, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;red:(4, 0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (1, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+1;red:(4, 0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (1, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+1;none:(5, 0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (5, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+192.168.0.4;1
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (5, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 1
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+192.168.0.4;2
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (5, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 2
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+X: 622
+Y: 150
+PRESSED
+X: 622
+Y: 150
+Called by Touch
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (5, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 2
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+X: 623
+Y: 151
+RELEASED
+1;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (5, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 2
+Green: 0
+Connected:
+Gred
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+GhostHandler Exception
+('unpack requires a string argument of length 4',)
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (5, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+
+
+192.168.0.4;0
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (3, 0), 'none': (5, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+
+
+1;brown:(0, 1) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+
+
+1;red:(1, 2) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (1, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+
+
+192.168.0.6;0
+Called by Ggreen
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (1, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;none:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (1, 0), 'black': (0, 0), 'red': (1, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;yellow:(2, 2) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (1, 0), 'black': (0, 0), 'red': (1, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;red:(4, 2) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (1, 0), 'black': (0, 0), 'red': (4, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;red:(2, 2) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (1, 0), 'black': (0, 0), 'red': (2, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;none:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (3, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.4;1
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.4;2
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.4;3
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+GAME OVER
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;red:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (3, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;red:(0, 2) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+convert-im6.q16: improper image header `cmdtmp.png' @ error/png.c/ReadPNGImage/3949.
+convert-im6.q16: no images defined `cmd.png' @ error/convert.c/ConvertImageCommand/3258.
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;yellow:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (0, 2), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;red:(4, 0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+1;yellow:(4, 0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;yellow:(3, 0) 10.42.3.1 Tile
+Called by T3
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (3, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+X: 460
+Y: 365
+PRESSED
+X: 460
+Y: 365
+Reset Pressed
+Called by Reset1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+RESET PIC DBG
+GAME OVER
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+win.wav: No such file or directory
+192.168.0.6;0
+Called by Ggreen
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 7
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.4;0
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+0;green:(0,0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 6
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 5
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Reset Done
+Called by Reset
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+RESET PIC DBG
+RELEASED
+X: 495
+Y: 421
+PRESSED
+X: 495
+Y: 421
+Reset Pressed
+Called by Reset1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+RESET PIC DBG
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+win.wav: No such file or directory
+192.168.0.4;1
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+192.168.0.6;0
+Called by Ggreen
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+192.168.0.4;0
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 00;green:(0,0) 10.42.4.1 Tile
+
+Called by T4Green: 0
+
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Connected:Pacman: 1
+
+T0Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Reset Done
+Called by Reset
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+RESET PIC DBG
+Y: 422
+X: 493
+Y: 414
+RELEASED
+X: 476
+Y: 425
+PRESSED
+X: 476
+Y: 425
+Reset Pressed
+Called by Reset1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+RESET PIC DBG
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+win.wav: No such file or directory
+192.168.0.4;1
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.6;0
+Called by Ggreen
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+192.168.0.4;0
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Reset Done
+Called by Reset
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+RESET PIC DBG
+192.168.0.4;1
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+X: 477
+X: 478
+X: 479
+Y: 424
+X: 480
+Y: 423
+RELEASED
+0;none:(5, 0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 1
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;yellow:(5, 0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 2
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(4, 0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 0)}
+Pacman: 3
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(5, 0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 3
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;red:(4, 0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (4, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 3
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;red:(5, 1) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 0)}
+Pacman: 3
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;yellow:(4, 2) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 2)}
+Pacman: 4
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+2;yellow:(5, 3) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 3)}
+Pacman: 5
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;yellow:(2, 2) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 2)}
+Pacman: 6
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 7
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+3;yellow:(5, 1) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (5, 1)}
+Pacman: 8
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+3;yellow:(4, 1) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (4, 1)}
+Pacman: 9
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (0, 1), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 10
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+0;brown:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 10
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 0)}
+Pacman: 11
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+2;yellow:(1, 2) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 2)}
+Pacman: 12
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+3;yellow:(2, 1) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 13
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+3;yellow:(1, 1) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (1, 1)}
+Pacman: 14
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+2;yellow:(0, 2) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 2)}
+Pacman: 15
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+3;yellow:(0, 1) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (5, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+3;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+3;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+3;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (5, 1), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+3;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+3;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+X: 501
+Y: 398
+PRESSED
+X: 501
+Y: 398
+Reset Pressed
+Called by Reset1
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+RESET PIC DBG
+GAME OVER
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+sending 5 bytes
+sending total 9 bytes
+sending    RESET
+SENDING COMPLETE
+win.wav: No such file or directory
+192.168.0.4;0
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.6;0
+Called by Ggreen
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 16
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+0;green:(0,0) 10.42.4.1 Tile
+Called by T4
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 13
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 10
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 7
+Red: 0
+Green: 0
+Connected:0;green:(0,0) 10.42.2.1 Tile
+
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 4
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;green:(0,0) 10.42.5.1 Tile
+Called by T5
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Reset Done
+Called by Reset
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+RESET PIC DBG
+convert-im6.q16: improper image header `cmd3.png' @ error/png.c/ReadPNGImage/3949.
+X: 502
+X: 503
+X: 504
+X: 505
+Y: 397
+RELEASED
+0;red:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 1)}
+Pacman: 1
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;yellow:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;yellow:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 0
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.4;1
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+0;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 1
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.4;2
+Called by Gred
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+0;none:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (1, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (1, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (1, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (1, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (1, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (1, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 2
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (1, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+1;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (0, 3), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;blue:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;red:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;blue:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;blue:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+0;blue:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+1;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 3
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+2;yellow:(2, 1) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 2
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+192.168.0.4;3
+Called by Gred
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+Playing WAVE 'pacman_chomp.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T3
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+TileHandler Exception
+(110, 'Connection timed out')
+Called by T3
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+0;red:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 1)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (1, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;blue:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (1, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+1;yellow:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;blue:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 3
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+192.168.0.4;4
+Called by Gred
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 4
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+192.168.0.4;5
+Called by Gred
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 5
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+192.168.0.4;6
+Called by Gred
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 6
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+192.168.0.4;7
+Called by Gred
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (0, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+1;none:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+1;none:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+1;red:(0, 0) 10.42.0.1 Tile
+Called by T0
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (0, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (0, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;blue:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 7
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+192.168.0.4;8
+Called by Gred
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+convert-im6.q16: improper image header `cmd2.png' @ error/png.c/ReadPNGImage/3949.
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, MonoGAME OVER
+
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;yellow:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+0;brown:(1, 0) 10.42.1.1 Tile
+Called by T1
+Locations: {'blue': (2, 0), 'brown': (1, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;red:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 8
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+192.168.0.4;9
+Called by Gred
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 9
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+Playing WAVE 'pacman_death.wav' : Unsigned 8 bit, Rate 11025 Hz, Mono
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;blue:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 9
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 9
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;brown:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 9
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 9
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;none:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 9
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+2;blue:(2, 0) 10.42.2.1 Tile
+Called by T2
+Locations: {'blue': (2, 0), 'brown': (2, 0), 'none': (2, 0), 'black': (0, 0), 'red': (2, 0), 'green': (0, 0), 'white': (0, 0), 'yellow': (2, 0)}
+Pacman: 4
+Red: 9
+Green: 0
+Connected:
+T0
+T2
+T1
+T4
+T5
+Gred
+Ggreen
+
+
+GAME OVER
+Playing WAVE 'pacman-intro.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
