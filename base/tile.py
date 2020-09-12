@@ -90,8 +90,9 @@ def score(color, tileID, positionUpdate):
    global s
    if color == 4:
       if eaten[tileID] != 1:
-         pmscore = pmscore+1
-      eaten[tileID] = 1
+         pmscore = pmscore #+1 for pacman
+      eaten[tileID] = 0 # 1 for pacman
+
    send_str = (str(pmscore) + ';' + positionUpdate).encode()
    send_msg = struct.pack('!I', len(send_str))
    send_msg += send_str

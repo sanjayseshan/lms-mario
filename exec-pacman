@@ -2,7 +2,7 @@
 
 echo "SSH INIT"
 
-cd /home/pi/pacman
+cd /home/pi/lms-mario
 
 echo "Scoring Socket Server Runnning...."
 cd ui/

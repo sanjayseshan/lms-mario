@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 # Echo server program
 import time
 import os
@@ -15,26 +16,26 @@ print(device)
 
 locations = {"none": (0,0), "black": (0,0), "blue" : (0,3),"green": (0,0),"yellow": (4,1),"red": (0,0),"white": (0,0), "brown": (0,0)}
 set = [0]*6
-scores = {"red":0, "green":0, "pacman":0}
+scores = {"red":0, "green":0}
 tile_addr = ["10.42.0.1", "10.42.1.1", "10.42.2.1", "10.42.3.1", "10.42.4.1", "10.42.5.1"]
 loc = 'green:(0,0)'
 
-enToEs = {"bkg-en.png":"bkg-es.png", "Game Over":"Partido Completado", "Pacman Wins":"Pacman Gana", "Red Ghost Wins":"Fantasma Rojo Gana","Green Ghost Wins":"Fantasma Verde Gana"}
+enToEs = {"bkg-en.png":"bkg-es.png", "Game Over":"Partido Completado", "Pacman Wins":"Pacman Gana", "Mario Wins":"Fantasma Rojo Gana","Bowser Jr Wins":"Fantasma Verde Gana"}
 
 
-ghostmax = 3 # winnning score for individual ghost
-pacmax = 16 # winning score for pacman
+bowmax = 1 # winnning score for individual ghost
+marmax = 16 # winning score for pacman
 
 connections = []
 
-pacold = 0
-redold = 0
-blueold = 0
+redold = 0 #mario
+greenold = 0 #bowserjr
+
 bkgPic = "bkg-en.png"
 gameOver = "Game Over"
-pacWon = "Pacman Wins"
-redWon = "Red Ghost Wins"
-blueWon = "Green Ghost Wins"
+redWon = "Mario Wins"
+greenWon = "Bowser Jr Wins"
+
 reset = 0
 need_reset = 0
 
@@ -64,12 +65,11 @@ def broadcast(data):
                            pass
 
 def updatedata(caller):
-        global pacold,redold,blueold,need_reset
+        global redold,greenold,need_reset
         print "Called by " + caller
-	print "Locations: " + str(locations)
-	print "Pacman: " + str(scores["pacman"])
-	print "Red: " + str(scores["red"])
-	print "Green: " + str(scores["green"])
+        print "Locations: " + str(locations)
+        print "Red: " + str(scores["red"])
+        print "Green: " + str(scores["green"])
         print "Connected:"
 #        print connections
         for (s, id) in connections:
@@ -77,53 +77,45 @@ def updatedata(caller):
         print "\n"
         yr,xr = locations['red']
         yr = 5-yr
-        yy,xy = locations['yellow']
-        yy = 5-yy
-        yb,xb = locations['blue']
-        yb = 5-yb
+        yg,xg = locations['green']
+        yg = 5-yg
 
 #        if need_reset:
 #                return
         red = str(scores["red"])
-        pac = str(scores["pacman"])
-        blue = str(scores["green"])
+        green = str(scores["green"])
         
-        if int(pac) > int(pacold):
-	        os.system('echo seshan | sudo -S aplay pacman_chomp.wav &')
         if int(red) > int(redold):
-	        os.system('echo seshan | sudo -S aplay pacman_death.wav &')
-        if int(blue) > int(blueold):
-	        os.system('echo seshan | sudo -S aplay pacman_death.wav &')
+                os.system('echo seshan | sudo -S aplay pacman_death.wav &')
+        if int(green) > int(greenold):
+                os.system('echo seshan | sudo -S aplay pacman_death.wav &')
 
         os.system('convert -background black -fill white -size 16x16 -font Helvetica -pointsize 15 -gravity center label:"'+red+'" -threshold 50 -morphology Thinning:-1 "LineEnds:-1;Peaks:1.5" -depth 1 cmd1.png')
-        os.system('convert -background black -fill white -size 16x16 -font Helvetica -pointsize 15 -gravity center label:"'+blue+'" -threshold 50 -morphology Thinning:-1 "LineEnds:-1;Peaks:1.5" -depth 1 cmd2.png')
-        os.system('convert -background black -fill white -size 16x16 -font Helvetica -pointsize 15 -gravity center label:"'+pac+'" -threshold 50 -morphology Thinning:-1 "LineEnds:-1;Peaks:1.5" -depth 1 cmd3.png')
+        os.system('convert -background black -fill white -size 16x16 -font Helvetica -pointsize 15 -gravity center label:"'+green+'" -threshold 50 -morphology Thinning:-1 "LineEnds:-1;Peaks:1.5" -depth 1 cmd2.png')
 
         if caller == "Reset1" or caller == "Reset" or reset == 1:
                 #os.system('cp cmd.png cmdtmp.png ; convert cmdtmp.png -fill none -stroke blue -strokewidth 3 -draw "rectangle 77,70 124,90" cmd.png')
                 print("RESET PIC DBG")
-                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xb)*16)+','+str(int(yb)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  '+str(int(xy)*16)+','+str(int(yy)*16)+' 0,0 \'pacman.png\'"  -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -draw "image over  100,50 0,0 \'cmd3.png\'" -fill none -stroke blue -strokewidth 3 -draw "rectangle 77,70 124,90" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
+                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xg)*16)+','+str(int(yg)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -fill none -stroke blue -strokewidth 3 -draw "rectangle 77,70 124,90" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
         if caller == "Exit":
                 #os.system('cp cmd.png cmdtmp.png ; convert cmdtmp.png -fill none -stroke blue -strokewidth 3 -draw "rectangle 77,70 124,90" cmd.png')
-                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xb)*16)+','+str(int(yb)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  '+str(int(xy)*16)+','+str(int(yy)*16)+' 0,0 \'pacman.png\'"  -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -draw "image over  100,50 0,0 \'cmd3.png\'" -fill none -stroke blue -strokewidth 3 -draw "rectangle 143,0 159,13" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
+                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xg)*16)+','+str(int(yg)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -fill none -stroke blue -strokewidth 3 -draw "rectangle 143,0 159,13" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
         elif caller == "Language":
-                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xb)*16)+','+str(int(yb)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  '+str(int(xy)*16)+','+str(int(yy)*16)+' 0,0 \'pacman.png\'"  -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -draw "image over  100,50 0,0 \'cmd3.png\'" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
+                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xg)*16)+','+str(int(yg)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
         else:
-                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xb)*16)+','+str(int(yb)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  '+str(int(xy)*16)+','+str(int(yy)*16)+' 0,0 \'pacman.png\'"  -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -draw "image over  100,50 0,0 \'cmd3.png\'" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse1.png"  cmd.png ')
+                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xg)*16)+','+str(int(yg)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse1.png"  cmd.png ')
         
-        if int(red) >= ghostmax or int(blue) >= ghostmax or int(pac) >= pacmax:
-	        print "GAME OVER"
+        if int(red) >= marmax or int(green) >= bowmax:
+                print "GAME OVER"
                 if caller != "Language" and caller != "Reset1" and caller != "Touch" and caller != "spinner" and caller != "Exit" and need_reset != 1:
-	                os.system('echo seshan | sudo -S aplay pacman-intro.wav &')
+                        os.system('echo seshan | sudo -S aplay pacman-intro.wav &')
                 need_reset = 1
-	        os.system('cp cmd.png cmdtmp.png')
-	        if int(red) >= ghostmax :
-		        os.system('convert cmdtmp.png -font Helvetica -weight 700  -pointsize 15 -undercolor white -draw "gravity center fill blue text 0,0 \''+gameOver+'\n'+redWon+'\' " cmd.png')
-	        if int(blue) >= ghostmax :
-		        os.system('convert cmdtmp.png -font Helvetica -weight 700  -pointsize 15 -undercolor white -draw "gravity center fill blue text 0,0 \''+gameOver+'\n'+blueWon+'\' " cmd.png')
-	        if int(pac) >= pacmax :
-		        os.system('convert cmdtmp.png -font Helvetica -weight 700  -pointsize 15 -undercolor white -draw "gravity center fill blue text 0,0 \''+gameOver+'\n'+pacWon+'\' " cmd.png')
-
+                os.system('cp cmd.png cmdtmp.png')
+                if int(red) >= marmax:
+                        os.system('convert cmdtmp.png -font Helvetica -weight 700  -pointsize 15 -undercolor white -draw "gravity center fill blue text 0,0 \''+gameOver+'\n'+redWon+'\' " cmd.png')
+                if int(green) >= bowmax :
+                        os.system('convert cmdtmp.png -font Helvetica -weight 700  -pointsize 15 -undercolor white -draw "gravity center fill blue text 0,0 \''+gameOver+'\n'+greenWon+'\' " cmd.png')
+ 
 #                os.system('echo seshan | sudo -S killall fbi')
 
 #                os.system('echo seshan | sudo -S fbi -d /dev/fb0 -T 3 -noverbose -a cmd.png &')
@@ -136,20 +128,18 @@ def updatedata(caller):
                 
 #                if int(red) >= ghostmax and int(red) > int(redold):
 #                        broadcast("RESET")
-#	        if int(blue) >= ghostmax and int(blue) > int(blueold):
+#                if int(blue) >= ghostmax and int(blue) > int(blueold):
 #                        broadcast("RESET")
 #
-#	        if int(pac) >= pacmax and int(pac) > int(pacold): #TESTING AS 1 NOT 24
+#                if int(pac) >= pacmax and int(pac) > int(pacold): #TESTING AS 1 NOT 24
 #                        broadcast("RESET")
 
                 
         os.system('echo seshan | sudo -S killall fbi')
 
         os.system('echo seshan | sudo -S fbi -d /dev/fb0 -T 3 -noverbose -a cmd.png > /dev/null 2>&1 &')
-        pacold = pac
         redold = red
-        blueold = blue
-
+        greenold = green
 
 class Reset(object):
    global reset
@@ -202,7 +192,7 @@ class Reset(object):
                                         updatedata("Reset1")
                                         time.sleep(0.5)
                                         broadcast("RESET")
-	                                os.system('echo seshan | sudo -S aplay win.wav &')
+                                        os.system('echo seshan | sudo -S aplay win.wav &')
                                         reset = 0
                                         sleep(8)
                                         need_reset = 0
@@ -236,7 +226,7 @@ class ThreadedServer(object):
     def __init__(self, host, port):
         self.host = host
         self.port = port
-	print "Active on port: " + str(port)
+        print "Active on port: " + str(port)
         self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         self.sock.bind((self.host, self.port))
@@ -246,7 +236,7 @@ class ThreadedServer(object):
         while True:
             conn, addresstup = self.sock.accept()
 #            conn.settimeout(60)
-	    address, tmp = addresstup
+            address, tmp = addresstup
 #            print "addr: " + str(address)
             if self.port == 5000:
                 threading.Thread(target = self.handleTile,args = (conn,address)).start()
@@ -270,7 +260,7 @@ class ThreadedServer(object):
                 while (data_len > 0):
                     data += client.recv( data_len )
                     data_len -= len(data)
-		print data + " " + address + " Tile"
+                print data + " " + address + " Tile"
                 if data:
                     score = data.split(';')[0]
                     set[id] = int(score)
@@ -279,18 +269,18 @@ class ThreadedServer(object):
                     coord = loc.split(':')[1].split('\n')[0]
                     locations[color] = eval(coord)
                     scores["pacman"] = sum(set)
-		    updatedata("T" + str(id))
+                    updatedata("T" + str(id))
 #                    print str(locations) + ";" + str(scores["pacman"]) + ";" + str(scores["red"]) + ";" + str(scores["green"])
                 else:
                     raise error('Tile disconnected')
             except Exception as e:
                 print "TileHandler Exception"
                 print str(e.args)
-		client.close()
+                client.close()
                 connections = [i for i in connections if i[0] != client]
                 #filter(connections, lambda conn: conn[0] != client)
 #                connections.remove((client, "tile "+ str(id)))
-		updatedata("T" + str(id))
+                updatedata("T" + str(id))
                 return False
 
 
@@ -307,7 +297,7 @@ class ThreadedServer(object):
                 while (data_len > 0):
                     data += client.recv( data_len )
                     data_len -= len(data)
-		print data 
+                print data 
                 if data:
                     botid = data.split(';')[0]
                     score = data.split(';')[1]
@@ -320,7 +310,7 @@ class ThreadedServer(object):
                             connections.append((client, "G"+msgcolor))
                     scores[msgcolor] = int(score)
 #                   print str(locations) + ";" + str(scores["pacman"]) + ";" + str(scores["red"]) + ";" + str(scores["green"])
-		    updatedata("G"+msgcolor)
+                    updatedata("G"+msgcolor)
                 else:
                     raise error('Tile disconnected')
             except Exception as e:
@@ -331,7 +321,7 @@ class ThreadedServer(object):
                         #filter(connections, lambda conn: conn[0] != client)
 #                        connections.remove((client, self.botcolor + " ghost"))
                 client.close()
-		updatedata("G"+msgcolor)
+                updatedata("G"+msgcolor)
                 return False
 
 

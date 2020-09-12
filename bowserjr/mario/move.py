@@ -8,11 +8,8 @@ from time import sleep
 B = ev3.LargeMotor('outB')
 C = ev3.LargeMotor('outC')
 
-cs1 = ev3.ColorSensor(address='ev3-ports:in4')
-cs2 = ev3.ColorSensor(address='ev3-ports:in1')
-
-cs1.mode = "COL-COLOR"
-cs2.mode = "COL-COLOR"
+cs1 = ev3.InfraredSensor()
+cs1.mode("proximity")
 
 ip = socket.gethostbyname(socket.gethostname())
 cc_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -155,13 +152,13 @@ Server.sendscore(0)
 pac_count = 0
 while True:
  try:
-     if cs1.value() == 4 or cs2.value() == 4:
+     if cs1.value() < 10: #pct ir  
          pac_count += 1
          sleep(.02)
          print("saw yellow")
          if pac_count > 2:
              moving.active = 0
-             print("PACMAN CAUGHT")
+             print("MARIO CAUGHT")
              score = score+1
              Server.sendscore(score)
              os.system('beep -f 300 -l 500')
