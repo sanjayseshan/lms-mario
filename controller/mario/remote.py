@@ -33,30 +33,30 @@ except:
 while True:
        try:
               while True:
-                     if ult1.value() < 10:
+                     if ult1.value() < 5:
                             dir = "F"
                             sendcmd(dir,s)
-                            while ult1.value() < 10:
+                            while ult1.value() < 5:
                                    continue
-                     elif ult2.value() < 10:
+                     elif ult2.value() < 5:
                             dir = "R"
                             sendcmd(dir,s)
-                            while ult2.value() < 10:
+                            while ult2.value() < 5:
                                    continue
-                     elif ult3.value() < 10:
+                     elif ult3.value() < 5:
                             dir = "B"
                             sendcmd(dir,s)
-                            while ult3.value() < 10:
+                            while ult3.value() < 5:
                                    continue
-                     elif ult4.value() < 10:
+                     elif ult4.value() < 5:
                             dir = "L"
                             sendcmd(dir,s)
-                            while ult4.value() < 10:
+                            while ult4.value() < 5:
                                    continue
                      else:
                             dir = "S"
                             sendcmd(dir,s)
-                            while ult1.value() > 10 and ult2.value() > 10 and ult3.value() > 10 and ult4.value() > 10:
+                            while ult1.value() > 3 and ult2.value() > 3 and ult3.value() > 3 and ult4.value() > 5:
                                    continue
                      print(dir)
        except Exception as e:

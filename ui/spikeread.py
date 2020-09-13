@@ -3,10 +3,14 @@ import serial, sys
 import threading
 
 serialdata = ""
+ser = serial.Serial("/dev/ttyACM0")  # open serial port
 
 
 
-def serialReader():
+def serialReader(name):
+
+    global serialdata
+    print("thread starting")
     while True:
         try:
             ser = serial.Serial("/dev/ttyACM0")  # open serial port
@@ -14,10 +18,10 @@ def serialReader():
             line = ""
             while not ("PROGEXITPROG" in line):
                 raw = ser.readline()
-                line = raw.decode().strip().split("TXTSPTXT")
-                serialdata = line[1]
                 try:
-                    print(line[1])
+                    line = raw.decode().strip().split("TXTSPTXT")
+                    serialdata = line[1]
+                    # print(line[1])
                 except Exception as exc:
                     print(exc)
                     pass
@@ -25,14 +29,14 @@ def serialReader():
             ser.close()
         except:
             ser.close()
-            print("done")
+            # print("done")
 
 
 def getSpikeData():
     return serialdata
 
 def init():
-    x = threading.Thread(target=serialReader)
+    x = threading.Thread(target=serialReader, args=(1,))
     x.start()
 
 

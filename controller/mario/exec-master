@@ -1,4 +1,4 @@
 #!/bin/bash
 killall python3
 echo "REMOTE.PY"
-python3 /home/robot/pacman/remote.py
+python3 /home/robot/mario/remote.py

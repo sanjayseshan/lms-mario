@@ -5,8 +5,8 @@ import socket,time,os,struct,threading
 import ev3dev.ev3 as ev3
 from time import sleep
 
-B = ev3.LargeMotor('outB')
-C = ev3.LargeMotor('outC')
+B = ev3.MediumMotor('outB')
+C = ev3.MediumMotor('outC')
 
 
 ip = socket.gethostbyname(socket.gethostname())
@@ -14,10 +14,10 @@ cc_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 cc_sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
 
 score = 0
-
+lastDir = "S"
 
 print("INIT")
-speed = 225
+speed = 325
 class Move(object):
     def __init__(self):
         self.host = ''                 # Symbolic name meaning all available interfaces
@@ -26,6 +26,7 @@ class Move(object):
         print("MOVE INIT")
 
     def drive(self):
+        global speed, lastDir
         move_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         move_sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         move_sock.bind((self.host, self.port))
@@ -45,6 +46,7 @@ class Move(object):
                             break
                         if self.active:
                             dir = data.decode()
+                            lastDir = dir
                             if dir == "F":
                                 B.run_forever(speed_sp=speed)
                                 C.run_forever(speed_sp=speed)
@@ -76,7 +78,7 @@ class ControlChannel(object):
        print ("Active on port: 6000")
 
    def control(self, data):
-       global score
+       global score, speed, lastDir
        time.sleep(1)
        print(data)
        if "RESET" in data:
@@ -84,11 +86,32 @@ class ControlChannel(object):
           score = 0
           self.sendscore(score)
        elif "BONUSMARIO" in data:
-          print("adding.bonus")
-          if "SPEEDUP" in data:
-                speed += 100
-          elif "SPEEDDOWN" in data:
-                speed -= 100 
+            print("adding.bonus")
+            if "SPEEDUP" in data:
+                    speed = 425
+            elif "SPEEDDOWN" in data:
+                    speed = 225 
+            elif "FIRE" in data:
+                    speed = 200 
+            elif "WATER" in data:
+                    speed = 325 
+
+            if lastDir == "F":
+                B.run_forever(speed_sp=speed)
+                C.run_forever(speed_sp=speed)
+            elif lastDir == "B":
+                B.run_forever(speed_sp=-speed)
+                C.run_forever(speed_sp=-speed)
+            elif lastDir == "L":
+                B.run_forever(speed_sp=speed)
+                C.run_forever(speed_sp=-speed)
+            elif lastDir == "R":
+                B.run_forever(speed_sp=-speed)
+                C.run_forever(speed_sp=speed)
+            elif lastDir == "S":
+                B.stop()
+                C.stop()           
+
 
    def watch(self):
       global cc_sock, score

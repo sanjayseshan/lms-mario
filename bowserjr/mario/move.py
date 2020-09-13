@@ -5,22 +5,21 @@ import socket,time,os,struct,threading
 import ev3dev.ev3 as ev3
 from time import sleep
 
-B = ev3.LargeMotor('outB')
-C = ev3.LargeMotor('outC')
+B = ev3.MediumMotor('outB')
+C = ev3.MediumMotor('outC')
 
-cs1 = ev3.InfraredSensor()
-cs1.mode("proximity")
+cs1 = ev3.ColorSensor("in4")
+cs1.mode = 'COL-COLOR'
 
 ip = socket.gethostbyname(socket.gethostname())
 cc_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 cc_sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
 
 score = 0
-
-speed = 250
+lastDir = "S"
 
 print("INIT")
-
+speed = 325
 class Move(object):
     def __init__(self):
         self.host = ''                 # Symbolic name meaning all available interfaces
@@ -29,6 +28,7 @@ class Move(object):
         print("MOVE INIT")
 
     def drive(self):
+        global speed, lastDir
         move_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         move_sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         move_sock.bind((self.host, self.port))
@@ -48,6 +48,7 @@ class Move(object):
                             break
                         if self.active:
                             dir = data.decode()
+                            lastDir = dir
                             if dir == "F":
                                 B.run_forever(speed_sp=speed)
                                 C.run_forever(speed_sp=speed)
@@ -65,7 +66,7 @@ class Move(object):
                                 C.stop()
                         else:
                             B.stop()
-                            C.stop()                            
+                            C.stop()                             
             except:
                 conn.close
 
@@ -79,19 +80,41 @@ class ControlChannel(object):
        print ("Active on port: 6000")
 
    def control(self, data):
-       global score
+       global score, speed, lastDir
        time.sleep(1)
        print(data)
        if "RESET" in data:
           print("resetting")
           score = 0
           self.sendscore(score)
-       elif "BONUSMARIO" in data:
-          print("adding.bonus")
-          if "SPEEDUP" in data:
-                speed += 100
-          elif "SPEEDDOWN" in data:
-                speed -= 100 
+       elif "BONUSBOWSER" in data:
+            print("adding.bonus")
+            if "SPEEDUP" in data:
+                    speed = 425
+            elif "SPEEDDOWN" in data:
+                    speed = 225 
+            elif "FIRE" in data:
+                    speed = 200 
+            elif "WATER" in data:
+                    speed = 325 
+
+            if lastDir == "F":
+                B.run_forever(speed_sp=speed)
+                C.run_forever(speed_sp=speed)
+            elif lastDir == "B":
+                B.run_forever(speed_sp=-speed)
+                C.run_forever(speed_sp=-speed)
+            elif lastDir == "L":
+                B.run_forever(speed_sp=speed)
+                C.run_forever(speed_sp=-speed)
+            elif lastDir == "R":
+                B.run_forever(speed_sp=-speed)
+                C.run_forever(speed_sp=speed)
+            elif lastDir == "S":
+                B.stop()
+                C.stop()           
+
+
    def watch(self):
       global cc_sock, score
       cc_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -158,7 +181,9 @@ Server.sendscore(0)
 pac_count = 0
 while True:
  try:
-     if cs1.value() < 10: #pct ir  
+    #  print(cs1.proximity, cs1.value())
+     cs1.mode = 'COL-COLOR'
+     if cs1.value() == 5 : #pct ir  
          pac_count += 1
          sleep(.02)
          print("saw yellow")
@@ -183,5 +208,6 @@ while True:
 #     if cs1.value() != 0 or cs2.value() != 0:
 #           print(cs1.value())
 #           print(cs2.value())
- except:
+ except Exception as e:
+     print(e)
      pass

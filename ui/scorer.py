@@ -9,14 +9,25 @@ import evdev
 import sys
 from time import sleep
 import spikeread
+import pygame
 
 device = evdev.InputDevice('/dev/input/event0')
 print(device)
 
 spikeread.init()
+pygame.init()
+display_width = 800
+display_height = 600
+# gameDisplay = pygame.display.set_mode((display_width,display_height))
+gameDisplay = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
+
+clock = pygame.time.Clock()
+crashed = False
+black = (0,0,0)
+white = (255,255,255)
 
 locations = {"none": (0,0), "black": (0,0), "blue" : (0,3),"green": (0,0),"yellow": (4,1),"red": (0,0),"white": (0,0), "brown": (0,0)}
-set = [0]*6
+set = [0]*7
 scores = {"red":0, "green":0}
 tile_addr = ["10.42.0.1", "10.42.1.1", "10.42.2.1", "10.42.3.1", "10.42.4.1", "10.42.5.1"]
 loc = 'green:(0,0)'
@@ -24,8 +35,8 @@ loc = 'green:(0,0)'
 enToEs = {"bkg-en.png":"bkg-es.png", "Game Over":"Partido Completado", "Pacman Wins":"Pacman Gana", "Mario Wins":"Fantasma Rojo Gana","Bowser Jr Wins":"Fantasma Verde Gana"}
 
 
-bowmax = 1 # winnning score for individual ghost
-marmax = 16 # winning score for pacman
+bowmax = 3 # winnning score for individual bowserjr
+marmax = 9 # winning score for mario
 
 connections = []
 
@@ -39,9 +50,14 @@ greenWon = "Bowser Jr Wins"
 
 reset = 0
 need_reset = 0
+clock = pygame.time.Clock()
 
 touchx = 0
 touchy = 0
+timermode = "stop"
+counter, text = 60, '60s'.rjust(3)
+pygame.time.set_timer(pygame.USEREVENT, 1000)
+font = pygame.font.SysFont('Consolas', 60)
 
 def broadcast(data):
         for (s, id) in connections:
@@ -87,9 +103,9 @@ def updatedata(caller):
         green = str(scores["green"])
         
         if int(red) > int(redold):
-                os.system('echo seshan | sudo -S aplay pacman_death.wav &')
+                os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
         if int(green) > int(greenold):
-                os.system('echo seshan | sudo -S aplay pacman_death.wav &')
+                os.system('echo seshan | sudo -S aplay nsmb_death.wav &')
 
         os.system('convert -background black -fill white -size 16x16 -font Helvetica -pointsize 15 -gravity center label:"'+red+'" -threshold 50 -morphology Thinning:-1 "LineEnds:-1;Peaks:1.5" -depth 1 cmd1.png')
         os.system('convert -background black -fill white -size 16x16 -font Helvetica -pointsize 15 -gravity center label:"'+green+'" -threshold 50 -morphology Thinning:-1 "LineEnds:-1;Peaks:1.5" -depth 1 cmd2.png')
@@ -103,13 +119,15 @@ def updatedata(caller):
                 os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xg)*16)+','+str(int(yg)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -fill none -stroke blue -strokewidth 3 -draw "rectangle 143,0 159,13" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
         elif caller == "Language":
                 os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xg)*16)+','+str(int(yg)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')
+        elif caller == "Timer":
+                os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xg)*16)+','+str(int(yg)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -fill none -stroke blue -strokewidth 3 -draw "rectangle 142,53 158,68" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse2.png"  cmd.png ')        
         else:
                 os.system('convert -size 160x96 xc:black -fill red -draw "image over  0,0 0,0 \''+bkgPic+'\'" -fill red -draw "image over  '+str(int(xr)*16)+','+str(int(yr)*16)+' 0,0 \'red.png\'" -draw "image over  '+str(int(xg)*16)+','+str(int(yg)*16)+' 0,0 \'green.png\'" -fill yellow -draw "image over  100,18 0,0 \'cmd1.png\'" -draw "image over  100,34 0,0 \'cmd2.png\'" -fill black -draw "image over '+str(touchx/5)+','+str(touchy/5)+' 0,0 mouse1.png"  cmd.png ')
         
         if int(red) >= marmax or int(green) >= bowmax:
                 print "GAME OVER"
                 if caller != "Language" and caller != "Reset1" and caller != "Touch" and caller != "spinner" and caller != "Exit" and need_reset != 1:
-                        os.system('echo seshan | sudo -S aplay pacman-intro.wav &')
+                        os.system('echo seshan | sudo -S aplay mk64_firstplace.wav &')
                 need_reset = 1
                 os.system('cp cmd.png cmdtmp.png')
                 if int(red) >= marmax:
@@ -136,18 +154,25 @@ def updatedata(caller):
 #                        broadcast("RESET")
 
                 
-        os.system('echo seshan | sudo -S killall fbi')
+        # os.system('echo seshan | sudo -S killall fbi')
 
-        os.system('echo seshan | sudo -S fbi -d /dev/fb0 -T 3 -noverbose -a cmd.png > /dev/null 2>&1 &')
+        # os.system('echo seshan | sudo -S fbi -d /dev/fb0 -T 3 -noverbose -a cmd.png > /dev/null 2>&1 &')
+        img = pygame.image.load('cmd.png')
+        picture = pygame.transform.scale(img, (800, 480))
+        gameDisplay.fill(white)
+        gameDisplay.blit(picture, (0,0))
+        pygame.display.update()
+        clock.tick(60)
         redold = red
         greenold = green
 
 class Reset(object):
-   global reset
+   global reset, counter, text
    def __init__(self):
            print ("READING INPUT")
 
    def watch(self):
+           global reset, counter, text, timermode
            global yelold,redold,greenold,need_reset,target,bkgPic,gameOver,yelWon,redWon,greenWon
            global reset,need_reset,locations,touchx,touchy
            btn_pressed = 0
@@ -189,16 +214,29 @@ class Reset(object):
                                 touchy = y
                                 if x > 390 and x < 620 and y > 360 and y < 450:
                                         print "Reset Pressed"
+                                        counter, text = 60, '60s'.rjust(3)
                                         reset = 1
+                                        set[6] = 0
                                         updatedata("Reset1")
                                         time.sleep(0.5)
                                         broadcast("RESET")
-                                        os.system('echo seshan | sudo -S aplay win.wav &')
+                                        os.system('echo seshan | sudo -S aplay mk64_welcome.wav &')
                                         reset = 0
                                         sleep(8)
                                         need_reset = 0
                                         print "Reset Done"
                                         updatedata("Reset")
+                                elif x > 700 and x < 800 and y > 270 and y < 340:
+                                        print("Start/stop timer")
+                                        if timermode == "start":
+                                                timermode = "stop"
+                                                bkgPic = "bkg-en.png"
+                                        elif timermode == "stop":
+                                                os.system('echo seshan | sudo -S aplay mk64_racestart.wav &')
+                                                timermode = "start"
+                                                bkgPic = "bkg-en-stop.png"
+                                        updatedata("Timer")
+
                                 elif x > 710 and x < 800 and y > 410 and y < 480:
                                         print("SWITCHING TO ENGLISH")
                                         bkgPic = "bkg-en.png"
@@ -231,8 +269,89 @@ class ThreadedServer(object):
         self.sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         self.sock.bind((self.host, self.port))
 
+    def handleTimer(self):
+            global counter, text, timermode
+            print("T: init")
+            while True:
+                for e in pygame.event.get():
+                        if e.type == pygame.USEREVENT: 
+                                if timermode != "stop":
+                                        counter -= 1
+                                if counter == 0:
+                                        os.system("espeak 'time up'")
+                                if counter == 15:
+                                        os.system("espeak 'fifteen seconds remaining'")
+                                text = str(str(counter)+"s").rjust(3) 
+                        if e.type == pygame.QUIT: break
+                else:
+                        # gameDisplay.fill((255, 255, 255))
+                        try:
+                                img = pygame.image.load('cmd.png')
+                                picture = pygame.transform.scale(img, (800, 480))
+                                gameDisplay.fill(white)
+                                gameDisplay.blit(picture, (0,0))
+                        except:
+                                pass
+                        # gameDisplay.blit(font.render(text0, True, (0, 0, 0)), (700, 200))
+                        gameDisplay.blit(font.render(text, True, (255, 255, 255)), (700, 200))
+                        # pygame.display.flip()
+                        pygame.display.update()
+                        print("T:"+str(counter))
+                        clock.tick(60)
+
+                        continue
+                break
+
+    def handleSpike(self, client, address):
+        global connections, set
+#        print "HANDLE TILE"
+        size = 1024
+        id = 6
+        connections.append((client, "T"+ str(id)))
+        updatedata("T" + str(id))
+        lastdata = ""
+        tmpset = 0
+        while True:
+            try:
+                data = ''
+#                print " receiving " + str(struct.calcsize("!I")) + " bytes"
+#                print " received " + str(len(data_len_str)) + " bytes"
+                data = spikeread.getSpikeData()
+                print("SPDATA: "+data)
+
+                if (data and data != lastdata):
+                    score = data.split(';')[0]
+                    loc = data.split(';')[1]
+                    color = loc.split(':')[0]
+                    if color == "red":
+                            set[6] = int(score)
+
+                    coord = loc.split(':')[1].split('\n')[0]
+                    locations[color] = eval(coord)
+                    scores["red"] = sum(set)
+                    updatedata("T" + str(id))
+                    lastdata = data
+                    tmpset = int(score)
+#                    print str(locations) + ";" + str(scores["pacman"]) + ";" + str(scores["red"]) + ";" + str(scores["green"])
+                else:
+                        pass
+                        # print("SP disconnected")
+                #     raise error('Tile disconnected')
+
+            except Exception as e:
+                print "SpikeHandler Exception"
+                print str(e)
+                
+                #filter(connections, lambda conn: conn[0] != client)
+#                connections.remove((client, "tile "+ str(id)))
+                # updatedata("T" + str(id))
+                # return False
+
     def listen(self):
         self.sock.listen(5)
+        threading.Thread(target = self.handleSpike,args = (0,0)).start()
+        threading.Thread(target = self.handleTimer,args = ()).start()
+
         while True:
             conn, addresstup = self.sock.accept()
 #            conn.settimeout(60)
@@ -268,10 +387,35 @@ class ThreadedServer(object):
                     color = loc.split(':')[0]
                     coord = loc.split(':')[1].split('\n')[0]
                     locations[color] = eval(coord)
-                    scores["pacman"] = sum(set)
+                    scores["red"] = sum(set)
                     updatedata("T" + str(id))
-                    if locations["red"] == (2,1):
+                    if locations["red"] == (0,2) or locations["red"] == (5,1):
                             broadcast("BONUSMARIOSPEEDUP")
+                            os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
+                    elif locations["red"] == (4,0):
+                            set[4] += 3
+                    elif locations["red"] == (0,3) or locations["red"] == (3,1) or locations["red"] == (4,2):
+                            broadcast("BONUSMARIOFIRE")
+                            os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
+                            
+                    elif locations["red"] == (0,0):
+                            broadcast("BONUSMARIOWATER")
+                            os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
+                    elif locations["red"] == (2,0) or locations["red"] == (2,3) or locations["red"] == (5,0) :
+                            broadcast("BONUSMARIOSPEEDDOWN")
+                            os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
+                    if locations["green"] == (0,2) or locations["red"] == (5,1):
+                            broadcast("BONUSBOWSERSPEEDUP")
+                            os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
+                    elif locations["green"] == (0,3) or locations["red"] == (3,1) or locations["red"] == (4,2):
+                            broadcast("BONUSBOWSERFIRE")
+                            os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
+                    elif locations["green"] == (0,0):
+                            broadcast("BONUSBOWSERWATER")
+                            os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
+                    elif locations["green"] == (2,0) or locations["red"] == (2,3) or locations["red"] == (5,0) :
+                            broadcast("BONUSBOWSERSPEEDDOWN")
+                            os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
 #                    print str(locations) + ";" + str(scores["pacman"]) + ";" + str(scores["red"]) + ";" + str(scores["green"])
                 else:
                     raise error('Tile disconnected')
@@ -331,8 +475,10 @@ class ThreadedServer(object):
 #                #client.close()
 #                return False
 
+
+
 updatedata("main")
-os.system('echo seshan | sudo -S aplay pacman-intro.wav &')
+os.system('echo seshan | sudo -S aplay mk64_welcome.wav &')
 Resetter = Reset()
 threading.Thread(target = Resetter.watch).start()
         
