@@ -8,11 +8,12 @@ import struct
 import evdev
 import sys
 from time import sleep
+import spikeread
 
 device = evdev.InputDevice('/dev/input/event0')
 print(device)
 
-
+spikeread.init()
 
 locations = {"none": (0,0), "black": (0,0), "blue" : (0,3),"green": (0,0),"yellow": (4,1),"red": (0,0),"white": (0,0), "brown": (0,0)}
 set = [0]*6
@@ -202,17 +203,16 @@ class Reset(object):
                                         print("SWITCHING TO ENGLISH")
                                         bkgPic = "bkg-en.png"
                                         gameOver = "Game Over"
-                                        pacWon = "Pacman Wins"
-                                        redWon = "Red Ghost Wins"
-                                        blueWon = "Green Ghost Wins"
+                                        redWon = "Mario Wins"
+                                        greenWon = "Bowser Jr Wins"
+
                                         updatedata("Language")
                                 elif x > 710 and x < 800 and y > 330 and y < 410:
                                         print("SWITCHING TO SPANISH")
                                         bkgPic = enToEs["bkg-en.png"]
                                         gameOver = enToEs["Game Over"]
-                                        pacWon = enToEs["Pacman Wins"]
-                                        redWon = enToEs["Red Ghost Wins"]
-                                        blueWon = enToEs["Green Ghost Wins"]
+                                        redWon = enToEs["Mario Wins"]
+                                        greenWon = enToEs["Bowser Jr Wins"]
                                         updatedata("Language")
                                 elif x > 720 and x < 800 and y > 0 and y < 65:
                                         print("Ending PACMAN")
@@ -270,6 +270,8 @@ class ThreadedServer(object):
                     locations[color] = eval(coord)
                     scores["pacman"] = sum(set)
                     updatedata("T" + str(id))
+                    if locations["red"] == (2,1):
+                            broadcast("BONUSMARIOSPEEDUP")
 #                    print str(locations) + ";" + str(scores["pacman"]) + ";" + str(scores["red"]) + ";" + str(scores["green"])
                 else:
                     raise error('Tile disconnected')
@@ -303,7 +305,7 @@ class ThreadedServer(object):
                     score = data.split(';')[1]
                     if botid == '192.168.0.4':
                       msgcolor = "red"
-                    elif botid == '192.168.0.6' or botid == '192.168.0.7':
+                    elif botid == '192.168.0.6':
                       msgcolor = "green"
                     if setmsgcolor:
                             setmsgcolor = 0

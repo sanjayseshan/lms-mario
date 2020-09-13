@@ -83,7 +83,7 @@ class ControlChannel(object):
           print("resetting")
           score = 0
           self.sendscore(score)
-       elif "BONUS" in data:
+       elif "BONUSMARIO" in data:
           print("adding.bonus")
           if "SPEEDUP" in data:
                 speed += 100

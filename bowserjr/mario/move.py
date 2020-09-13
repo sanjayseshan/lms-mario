@@ -17,6 +17,7 @@ cc_sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
 
 score = 0
 
+speed = 250
 
 print("INIT")
 
@@ -48,23 +49,23 @@ class Move(object):
                         if self.active:
                             dir = data.decode()
                             if dir == "F":
-                                B.run_forever(speed_sp=250)
-                                C.run_forever(speed_sp=250)
+                                B.run_forever(speed_sp=speed)
+                                C.run_forever(speed_sp=speed)
                             elif dir == "B":
-                                B.run_forever(speed_sp=-250)
-                                C.run_forever(speed_sp=-250)
+                                B.run_forever(speed_sp=-speed)
+                                C.run_forever(speed_sp=-speed)
                             elif dir == "L":
-                                B.run_forever(speed_sp=200)
-                                C.run_forever(speed_sp=-200)
+                                B.run_forever(speed_sp=speed)
+                                C.run_forever(speed_sp=-speed)
                             elif dir == "R":
-                                B.run_forever(speed_sp=-200)
-                                C.run_forever(speed_sp=200)
+                                B.run_forever(speed_sp=-speed)
+                                C.run_forever(speed_sp=speed)
                             elif dir == "S":
                                 B.stop()
                                 C.stop()
                         else:
                             B.stop()
-                            C.stop()                             
+                            C.stop()                            
             except:
                 conn.close
 
@@ -85,7 +86,12 @@ class ControlChannel(object):
           print("resetting")
           score = 0
           self.sendscore(score)
-
+       elif "BONUSMARIO" in data:
+          print("adding.bonus")
+          if "SPEEDUP" in data:
+                speed += 100
+          elif "SPEEDDOWN" in data:
+                speed -= 100 
    def watch(self):
       global cc_sock, score
       cc_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
