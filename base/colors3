@@ -2,27 +2,176 @@ connected to 10.42.0.3
 Active on port: 5000 & 6000
 sending 13 bytes
 sending total 17 bytes
-sending b'\x00\x00\x00\r0;green:(0,0)'
+sending b'\x00\x00\x00\r0;green:(5,2)'
 SENDING COMPLETE
 INIT
-BONUSMARIOWATER
-BONUSBOWSERWATER
-BONUSMARIOWATER
-BONUSMARIOWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSMARIOWATER
-BONUSBOWSERWATER
-BONUSMARIOWATER
-BONUSBOWSERWATER
-BONUSMARIOWATER
-BONUSBOWSERWATER
-BONUSMARIOWATER
-BONUSBOWSERWATER
-BONUSMARIOWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
 entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 0)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 0)'
+SENDING COMPLETE
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDUP
+entering monitoring - rfl > 8
+none:(2, 3)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;none:(2, 3)'
+SENDING COMPLETE
+FAILURE TO RECV..('unpack requires a bytes object of length 4',)..RECONNECTING
+connected to 10.42.0.3
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+RESET
+resetting
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(5,2)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -39,27 +188,238 @@ sending total 16 bytes
 sending b'\x00\x00\x00\x0c0;red:(2, 3)'
 SENDING COMPLETE
 BONUSMARIOSPEEDDOWN
-BONUSBOWSERWATER
-BONUSMARIOSPEEDDOWN
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-RESET
-resetting
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r0;green:(0,0)'
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+BONUSMARIOFIRE
+entering monitoring - color not 0
+BONUSMARIOFIRE
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 3)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 3)'
 SENDING COMPLETE
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSBOWSERFIRE
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDUP
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+BONUSBOWSERSPEEDUP
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDUP
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+BONUSBOWSERSPEEDUP
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 0)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 0)'
+SENDING COMPLETE
+BONUSBOWSERSPEEDUP
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDUP
 RESET
 resetting
 sending 13 bytes
 sending total 17 bytes
-sending b'\x00\x00\x00\r0;green:(0,0)'
+sending b'\x00\x00\x00\r0;green:(5,2)'
+SENDING COMPLETE
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+RESET
+resetting
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(5,2)'
 SENDING COMPLETE
 entering monitoring - rfl > 8
 entering monitoring - color not 0
@@ -106,41 +466,6 @@ entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-BONUSBOWSERWATER
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-BONUSBOWSERWATER
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-BONUSBOWSERWATER
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -150,10 +475,384 @@ sending 13 bytes
 sending total 17 bytes
 sending b'\x00\x00\x00\r0;blue:(2, 3)'
 SENDING COMPLETE
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
 entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 3)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 3)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+none:(2, 3)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;none:(2, 3)'
+SENDING COMPLETE
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDUP
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+entering monitoring - rfl > 8
+none:(2, 0)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;none:(2, 0)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+BONUSMARIOSPEEDDOWN
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+brown:(2, 0)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;brown:(2, 0)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSBOWSERSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSBOWSERFIRE
+BONUSMARIOSPEEDUP
+BONUSBOWSERFIRE
+BONUSBOWSERFIRE
+BONUSBOWSERFIRE
+BONUSBOWSERFIRE
+BONUSBOWSERFIRE
+BONUSBOWSERFIRE
+BONUSBOWSERFIRE
+BONUSBOWSERFIRE
+BONUSBOWSERFIRE
+RESET
+resetting
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(5,2)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(2, 3)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 3)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+BONUSMARIOSPEEDDOWN
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+blue:(2, 3)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;blue:(2, 3)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -226,13 +925,17 @@ sending 14 bytes
 sending total 18 bytes
 sending b'\x00\x00\x00\x0e0;green:(2, 3)'
 SENDING COMPLETE
-BONUSBOWSERFIRE
-BONUSBOWSERFIRE
-BONUSBOWSERFIRE
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDUP
+BONUSMARIOSPEEDUP
 entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
-BONUSBOWSERFIRE
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -261,45 +964,19 @@ entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-BONUSBOWSERSPEEDUP
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
+BONUSMARIOSPEEDDOWN
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -337,15 +1014,7 @@ sending total 16 bytes
 sending b'\x00\x00\x00\x0c0;red:(2, 0)'
 SENDING COMPLETE
 BONUSMARIOSPEEDDOWN
-BONUSBOWSERSPEEDUP
 BONUSMARIOSPEEDDOWN
-BONUSBOWSERSPEEDUP
-BONUSMARIOSPEEDDOWN
-BONUSBOWSERSPEEDUP
-BONUSBOWSERSPEEDUP
-BONUSBOWSERSPEEDUP
-BONUSBOWSERWATER
-BONUSBOWSERWATER
 entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -379,72 +1048,62 @@ entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
-yellow:(2, 0)
-sending 15 bytes
-sending total 19 bytes
-sending b'\x00\x00\x00\x0f0;yellow:(2, 0)'
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 0)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 0)'
 SENDING COMPLETE
-BONUSMARIOSPEEDDOWN
 BONUSBOWSERSPEEDDOWN
 BONUSMARIOSPEEDUP
-BONUSBOWSERSPEEDUP
 RESET
 resetting
 sending 13 bytes
 sending total 17 bytes
-sending b'\x00\x00\x00\r0;green:(0,0)'
+sending b'\x00\x00\x00\r0;green:(5,2)'
 SENDING COMPLETE
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
 entering monitoring - rfl > 8
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-BONUSBOWSERWATER
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -453,21 +1112,44 @@ sending 12 bytes
 sending total 16 bytes
 sending b'\x00\x00\x00\x0c0;red:(2, 3)'
 SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+brown:(2, 3)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;brown:(2, 3)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
 BONUSMARIOSPEEDDOWN
-BONUSBOWSERWATER
+entering monitoring - color not 0
+blue:(2, 3)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;blue:(2, 3)'
+SENDING COMPLETE
 BONUSMARIOSPEEDDOWN
-BONUSBOWSERSPEEDDOWN
-BONUSMARIOFIRE
-BONUSMARIOFIRE
-BONUSMARIOFIRE
-BONUSBOWSERFIRE
-BONUSMARIOFIRE
-BONUSBOWSERFIRE
-BONUSMARIOFIRE
-BONUSBOWSERFIRE
-BONUSMARIOFIRE
-BONUSBOWSERSPEEDUP
-BONUSBOWSERSPEEDUP
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSMARIOSPEEDDOWN
 entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -591,6 +1273,20 @@ entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
+green:(2, 3)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 3)'
+SENDING COMPLETE
+BONUSMARIOFIRE
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOFIRE
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -604,6 +1300,12 @@ entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -639,6 +1341,7 @@ entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
+BONUSMARIOSPEEDDOWN
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -658,14 +1361,13 @@ entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
@@ -941,11 +1643,417 @@ sending total 18 bytes
 sending b'\x00\x00\x00\x0e0;green:(2, 0)'
 SENDING COMPLETE
 BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
 BONUSMARIOSPEEDUP
+RESET
+resetting
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;green:(5,2)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+blue:(2, 3)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;blue:(2, 3)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+BONUSMARIOFIRE
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 3)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 3)'
+SENDING COMPLETE
+BONUSMARIOFIRE
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOFIRE
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDDOWN
 BONUSBOWSERSPEEDUP
-BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDUP
 BONUSBOWSERSPEEDUP
 entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
 entering monitoring - color not 0
 red:(2, 0)
 sending 12 bytes
@@ -962,355 +2070,1378 @@ entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
-brown:(2, 0)
-sending 14 bytes
-sending total 18 bytes
-sending b'\x00\x00\x00\x0e0;brown:(2, 0)'
-SENDING COMPLETE
-BONUSMARIOSPEEDDOWN
-BONUSMARIOSPEEDDOWN
-BONUSMARIOSPEEDDOWN
-BONUSMARIOSPEEDDOWN
-entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
-none:(2, 0)
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r0;none:(2, 0)'
-SENDING COMPLETE
-RESET
-resetting
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r0;green:(0,0)'
-SENDING COMPLETE
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
-blue:(2, 1)
-sending 13 bytes
-sending total 17 bytes
-sending b'\x00\x00\x00\r0;blue:(2, 1)'
-SENDING COMPLETE
-entering monitoring - rfl > 8
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
 entering monitoring - color not 0
-BONUSBOWSERWATER
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-entering monitoring - color not 0
-red:(2, 1)
+red:(2, 0)
 sending 12 bytes
 sending total 16 bytes
-sending b'\x00\x00\x00\x0c0;red:(2, 1)'
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
 SENDING COMPLETE
-BONUSBOWSERWATER
-BONUSBOWSERWATER
-BONUSBOWSERWATER
+BONUSMARIOSPEEDDOWN
+BONUSBOWSERSPEEDUP
+BONUSMARIOSPEEDDOWN
+BONUSBOWSERSPEEDUP
+BONUSMARIOSPEEDDOWN
+BONUSBOWSERSPEEDUP
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 0)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 0)'
+SENDING COMPLETE
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+yellow:(2, 3)
+sending 15 bytes
+sending total 19 bytes
+sending b'\x00\x00\x00\x0f0;yellow:(2, 3)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+blue:(2, 3)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;blue:(2, 3)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 3)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 3)'
+SENDING COMPLETE
+BONUSBOWSERSPEEDDOWN
+BONUSBOWSERSPEEDDOWN
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+green:(2, 0)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;green:(2, 0)'
+SENDING COMPLETE
+BONUSBOWSERSPEEDDOWN
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(2, 3)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 3)'
+SENDING COMPLETE
+BONUSMARIOSPEEDDOWN
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+brown:(2, 3)
+sending 14 bytes
+sending total 18 bytes
+sending b'\x00\x00\x00\x0e0;brown:(2, 3)'
+SENDING COMPLETE
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+blue:(2, 3)
+sending 13 bytes
+sending total 17 bytes
+sending b'\x00\x00\x00\r0;blue:(2, 3)'
+SENDING COMPLETE
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSBOWSERSPEEDUP
+entering monitoring - rfl > 8
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+BONUSBOWSERSPEEDUP
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+entering monitoring - color not 0
+red:(2, 0)
+sending 12 bytes
+sending total 16 bytes
+sending b'\x00\x00\x00\x0c0;red:(2, 0)'
+SENDING COMPLETE
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+BONUSMARIOSPEEDUP
+FAILURE TO RECV..('unpack requires a bytes object of length 4',)..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING
+FAILURE TO RECV..(107, 'Transport endpoint is not connected')..RECONNECTING

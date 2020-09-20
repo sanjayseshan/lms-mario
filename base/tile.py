@@ -81,7 +81,7 @@ class ControlChannel(object):
 #          print(colorcount)
 #          print(eaten)
 #          print(monitoring)
-          score(1, 1, 'green:(0,0)')
+          score(1, 1, 'green:(5,2)')
           inreset = 0
 #          time.sleep(1)
 
@@ -118,7 +118,7 @@ def score(color, tileID, positionUpdate):
 
 Server = ControlChannel()
 threading.Thread(target = Server.watch).start()
-score(1, 1, 'green:(0,0)')
+score(1, 1, 'green:(5,2)')
 print("INIT")
 
 for n in range(0, 4):

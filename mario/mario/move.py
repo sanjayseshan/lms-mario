@@ -17,7 +17,7 @@ score = 0
 lastDir = "S"
 
 print("INIT")
-speed = 325
+speed = 425
 class Move(object):
     def __init__(self):
         self.host = ''                 # Symbolic name meaning all available interfaces
@@ -88,13 +88,13 @@ class ControlChannel(object):
        elif "BONUSMARIO" in data:
             print("adding.bonus")
             if "SPEEDUP" in data:
-                    speed = 425
+                    speed = 525
             elif "SPEEDDOWN" in data:
-                    speed = 225 
-            elif "FIRE" in data:
-                    speed = 200 
-            elif "WATER" in data:
                     speed = 325 
+            elif "FIRE" in data:
+                    speed = 300 
+            elif "WATER" in data:
+                    speed = 425 
 
             if lastDir == "F":
                 B.run_forever(speed_sp=speed)

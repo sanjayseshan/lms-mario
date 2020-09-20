@@ -26,7 +26,7 @@ crashed = False
 black = (0,0,0)
 white = (255,255,255)
 
-locations = {"none": (0,0), "black": (0,0), "blue" : (0,3),"green": (0,0),"yellow": (4,1),"red": (0,0),"white": (0,0), "brown": (0,0)}
+locations = {"none": (0,0), "black": (0,0), "blue" : (5,2),"green": (5,2),"yellow": (4,1),"red": (4,3),"white": (0,0), "brown": (0,0)}
 set = [0]*7
 scores = {"red":0, "green":0}
 tile_addr = ["10.42.0.1", "10.42.1.1", "10.42.2.1", "10.42.3.1", "10.42.4.1", "10.42.5.1"]
@@ -232,6 +232,8 @@ class Reset(object):
                                                 timermode = "stop"
                                                 bkgPic = "bkg-en.png"
                                         elif timermode == "stop":
+                                                os.system('echo seshan | sudo -S aplay mk64_welcome.wav &')
+
                                                 os.system('echo seshan | sudo -S aplay mk64_racestart.wav &')
                                                 timermode = "start"
                                                 bkgPic = "bkg-en-stop.png"
@@ -393,29 +395,28 @@ class ThreadedServer(object):
                             broadcast("BONUSMARIOSPEEDUP")
                             os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
                     elif locations["red"] == (4,0):
-                            set[4] += 3
+                            set[4] = 3
                     elif locations["red"] == (0,3) or locations["red"] == (3,1) or locations["red"] == (4,2):
                             broadcast("BONUSMARIOFIRE")
-                            os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
-                            
+                        #     os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
                     elif locations["red"] == (0,0):
                             broadcast("BONUSMARIOWATER")
                             os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
                     elif locations["red"] == (2,0) or locations["red"] == (2,3) or locations["red"] == (5,0) :
                             broadcast("BONUSMARIOSPEEDDOWN")
-                            os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
-                    if locations["green"] == (0,2) or locations["red"] == (5,1):
+                        #     os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
+                    if locations["green"] == (0,2) or locations["green"] == (5,1):
                             broadcast("BONUSBOWSERSPEEDUP")
                             os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
-                    elif locations["green"] == (0,3) or locations["red"] == (3,1) or locations["red"] == (4,2):
+                    elif locations["green"] == (0,3) or locations["green"] == (3,1) or locations["green"] == (4,2):
                             broadcast("BONUSBOWSERFIRE")
-                            os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
+                        #     os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
                     elif locations["green"] == (0,0):
                             broadcast("BONUSBOWSERWATER")
                             os.system('echo seshan | sudo -S aplay nsmb_power-up.wav &')
-                    elif locations["green"] == (2,0) or locations["red"] == (2,3) or locations["red"] == (5,0) :
+                    elif locations["green"] == (2,0) or locations["green"] == (2,3) or locations["green"] == (5,0) :
                             broadcast("BONUSBOWSERSPEEDDOWN")
-                            os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
+                        #     os.system('echo seshan | sudo -S aplay mlpit_mario_oh_no.wav &')
 #                    print str(locations) + ";" + str(scores["pacman"]) + ";" + str(scores["red"]) + ";" + str(scores["green"])
                 else:
                     raise error('Tile disconnected')
